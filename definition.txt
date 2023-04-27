@@ -1,0 +1,24 @@
+- in regular functions you provide an input and the function returns an output
+    - in ML you provide both, and the function has to figure out how to achieve the output
+- 3 types of ML:
+    - supervised: data already have categories. you can decide how to classify
+    - unsupervised: doesn't have categories, i.e. a csv file without column name. the machine determines the classification
+    - reinforcement: teaching machines through trials and errors
+
+
+#1 - Import the data
+#2 - Clean the data - #1 and #2 probably the most difficult steps given the competitive advantage they mean
+#3 - Split the data. Training set/Test set
+#4 - Create a model
+#5 - Check the output
+#6 - Improve
+
+
+
+- python has the best tools for ML
+    - NumPy - list and arrays
+    - pandas - work on tabular data like csv files
+    - scikit-learn (sklearn) - create models
+    - matplotlib - charting, visualize
+    - jupyter notebooks - step through code and keep track of things done
+    - kaggle - community and datasets
